@@ -24,7 +24,7 @@ Diagramas disponibles en draw.io en este [link](https://drive.google.com/file/d/
 1. Ejecute el proyecto. Abra el navegador y verifique que puede navegar entre todas las pestañas
 2. Personalice el mensaje que sale en la opción "About"
 3. Explorar los controles de streamlit.
-    1. Agregue al menos dos controles de tipo "input widgets" en el archivo PruebaStreamlitView
+    1. Agregue al menos dos controles de tipo "input widgets" en el archivo PruebaPartial
     2. Intente organizar el contenido en dos columna
     3. Pruebe el contenedor expander. Ponga texto dentro de este contenedor
 4. Funcionamiento de controles en la clase `MainView`

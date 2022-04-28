@@ -35,6 +35,19 @@ Diagramas disponibles en draw.io en este [link](https://drive.google.com/file/d/
     1. Investigué qué es una sesión en una Aplicación web
     2. Investigue cómo streamlit controla el manejo de la sesión
     3. En el código de ejemplo, en qué parte se hace manejo de estado
-6. Extender
-   1. Agregue al menos otros dos campos en EvalPartial relacionados con la información que contiene EvalAnteproyecto
-   2. Mejore la presentación de los elementos listados cuando se da click en la opción "ListarEvaluaciones"
+       1. Extender
+          1. Agregue al menos otros dos campos en EvalPartial relacionados con la información que contiene EvalAnteproyecto
+          2. Mejore la presentación de los elementos listados cuando se da click en la opción "ListarEvaluaciones"
+          3. Mejore la interfaz gráfica en la opción de ``agregar_evaluacion`` de manera que pregunte por los siguientes campos  
+          definidos en el model en la clase ``EvalAnteproy``: 
+            >self.observaciones 
+             self.fecha_evaluacion 
+             self.nombre_estudiante 
+             self.id_estudiante 
+             self.tema_proyecto 
+             self.version_doc
+       
+       2.Evaluar anteproyecto: ajustar la interfaz gráfica para lograr algo similar
+        a lo que muestran las siguientes imágenes 1
+           ![img.png](img.png)
+           ![img_1.png](img_1.png)
